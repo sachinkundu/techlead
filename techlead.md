@@ -73,9 +73,6 @@ I think some tactical tools which help the most in running successful software p
 
 3. Disruption Budget: Regard yourelf as having a defined amount of budget for changing things. Every intervention you make into a process, plan or existing software is a moment when you spend that budget. Make sure you spend this budget wisely on high impact items and don't go into debt. Good investments early result in you gaining more budget to spend as the value of the disruption is realised. Bad investments result in a loss of trust and reluctance to take on future disruptions. 
 
-
-If you set out to disrupt or influence every decision in the project you will overspend on this budget, the result is team members feel a lack of trust or micromanagment. 
-
 ## Conclusion 
 
 At the end of the day, it is good practices, especially upfront, combined with dedicated people ready to react to the inevitable surprises, that get projects done successfully. The job of the tech lead is to facilitate others getting the practices done properly by keeping everyone focused on the goals of the project and keeping at bay all the stakeholders who might be tempted to disrupt the progress of the project. The leader's job is not only to give vision and to guide but also to protect the good work being done by others. 
