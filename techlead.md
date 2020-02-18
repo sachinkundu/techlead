@@ -50,6 +50,7 @@ You report to the Dev Crews leadership – It is your job to highlight risks and
 
 You report to other teams – Getting stuff done is silver. Imparting the knowledge to others to accelerate them is golden. Make sure as a tech lead sharing is done after project completion. Go and share your experience. 
 
+
 ## Project management 
 
 Measure what matters. Here is my current thinking of what that means 
@@ -64,11 +65,13 @@ Measure what matters. Here is my current thinking of what that means
 
 Read the book [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435/) 
 
-I think two tactical tools which help the most in running successful software projects 
+I think some tactical tools which help the most in running successful software projects 
 
 1. Work in Progress (WIP) limits: Stop starting and start finishing. Momentum creates momentum so get things done instead of starting many tasks. It also improves communication between team members and a natural way to collaborate over tasks so that new tasks can be brought to the board. 
 
 2. Retrospectives: Realizing ways to improve from week to week and taking action to close the gaps found will help the team in trusting you. The worst thing a tech lead can do is to ignore retrospective action points. 
+
+3. Disruption Budget: Regard yourelf as having a defined amount of budget for changing things. Every intervention you make into a process, plan or existing software is a moment when you spend that budget. Make sure you spend this budget wisely on high impact items and don't go into debt. Good investments early result in you gaining more budget to spend as the value of the disruption is realised. Bad investments result in a loss of trust and reluctance to take on future disruptions. 
 
 ## Conclusion 
 
